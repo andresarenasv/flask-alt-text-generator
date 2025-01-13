@@ -1,2 +1,11 @@
 Flask==3.0.0
 replicate==0.14.0
+opencv-python-headless==4.9.0.80
+numpy==1.26.4
+pytest==8.0.0
+pytest-cov==4.1.0
+pydantic==2.6.1
+pydantic-settings==2.1.0
+python-dotenv==1.0.0
+Werkzeug==3.0.1
+Pillow==10.2.0
